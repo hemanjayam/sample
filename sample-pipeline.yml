@@ -23,7 +23,7 @@ jobs:
         args:
         - -exc
         - |
-          echo "This job is automatically triggered upon any version change in the resource."
+          echo "Updated the message here"
 
 
 - name: Manually-trigger-me
