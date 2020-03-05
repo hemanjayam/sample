@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/hemanjayam/sample.git
+    uri: https://github.com/test.git
 
 jobs:
 - name: Run-automatically
